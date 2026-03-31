@@ -30,7 +30,7 @@ In addition to the theoretical analysis, the project demonstrates practical Linu
 ### 🔧 Install Git (if not already installed)
 
 ## 📂Repository Structure
-
+````
 │oss-audit-24mim10203/
 ├── script1.sh
 ├── script2.sh
@@ -38,6 +38,7 @@ In addition to the theoretical analysis, the project demonstrates practical Linu
 ├── script4.sh
 ├── script5.sh
 ├── README.md
+````
 
 ## How to Run the Scripts
 Step 1: Give Execution Permission
