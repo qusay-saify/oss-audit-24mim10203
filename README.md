@@ -30,13 +30,14 @@ In addition to the theoretical analysis, the project demonstrates practical Linu
 ### 🔧 Install Git (if not already installed)
 
 ## 📂Repository Structure
+
 oss-audit-24mim10203/
-│
-├── script1.sh   # System Identity Report
-├── script2.sh   # FOSS Package Inspector
-├── script3.sh   # Disk and Permission Auditor
-├── script4.sh   # Log File Analyzer
-├── script5.sh   # Open Source Manifesto Generator
+│oss-audit-24mim10203/
+├── script1.sh
+├── script2.sh
+├── script3.sh
+├── script4.sh
+├── script5.sh
 ├── README.md
 
 ## How to Run the Scripts
