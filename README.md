@@ -31,7 +31,6 @@ In addition to the theoretical analysis, the project demonstrates practical Linu
 
 ## 📂Repository Structure
 
-oss-audit-24mim10203/
 │oss-audit-24mim10203/
 ├── script1.sh
 ├── script2.sh
