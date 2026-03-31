@@ -29,10 +29,6 @@ In addition to the theoretical analysis, the project demonstrates practical Linu
 
 ### 🔧 Install Git (if not already installed)
 
-```bash
-sudo apt update
-sudo apt install git
-
 📂 Repository Structure
 oss-audit-24mim10203/
 │
