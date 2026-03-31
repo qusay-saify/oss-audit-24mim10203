@@ -48,33 +48,36 @@ chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
 ▶️ Script 1: System Identity Report
 
 Displays system details such as OS, kernel version, user, uptime, and date.
-
+````
 ./script1.sh
+````
 
 ▶️ Script 2: FOSS Package Inspector
 
 Checks whether Git is installed and displays version and package details.
-
+````
 ./script2.sh'
+````
 
 ▶️ Script 3: Disk and Permission Auditor
 
 Analyzes important system directories and displays size, ownership, and permissions.
-
+````
 ./script3.sh
-
+````
 ▶️ Script 4: Log File Analyzer
 
 Reads a log file, counts occurrences of a keyword (default: "error"), and shows recent matches.
-
+````
 ./script4.sh /var/log/syslog error
-
+````
 
 ▶️ Script 5: Open Source Manifesto Generator
 
 Generates a personalized open-source philosophy statement based on user input.
-
+````
 ./script5.sh
+````
 
  ### Script Details
 
